@@ -1,7 +1,7 @@
 "use client";
 
-import Calendar from "@/components/calendar";
+import CalendarMonth from "@/app/components/CalendarMonth";
 
 export default function Home() {
-  return <Calendar />;
+  return <CalendarMonth />;
 }

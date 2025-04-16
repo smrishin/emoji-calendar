@@ -1,0 +1,42 @@
+[
+  {
+    "match": "RCB vs PKS",
+    "date": "2025-04-18",
+    "time_utc": "2025-04-18T14:00:00Z"
+  },
+  {
+    "match": "PKS vs RCB",
+    "date": "2025-04-20",
+    "time_utc": "2025-04-20T10:00:00Z"
+  },
+  {
+    "match": "RCB vs RR",
+    "date": "2025-04-24",
+    "time_utc": "2025-04-24T14:00:00Z"
+  },
+  {
+    "match": "DC vs RCB",
+    "date": "2025-04-27",
+    "time_utc": "2025-04-27T14:00:00Z"
+  },
+  {
+    "match": "RCB vs CSK",
+    "date": "2025-05-03",
+    "time_utc": "2025-05-03T14:00:00Z"
+  },
+  {
+    "match": "LSG vs RCB",
+    "date": "2025-05-09",
+    "time_utc": "2025-05-09T14:00:00Z"
+  },
+  {
+    "match": "RCB vs SRH",
+    "date": "2025-05-13",
+    "time_utc": "2025-05-13T14:00:00Z"
+  },
+  {
+    "match": "RCB vs KKR",
+    "date": "2025-05-17",
+    "time_utc": "2025-05-17T14:00:00Z"
+  }
+]
